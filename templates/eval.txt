@@ -1,0 +1,9 @@
+Multiple choice evaluation
+
+Question: {input}
+(A) {A}
+(B) {B}
+(C) {C}
+(D) {D}
+
+Respond with just the letter choice (e.g. "A" or "B").
